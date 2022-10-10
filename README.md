@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=110&section=header&text=Hi,%20I'm%20minji%20😎&fontAlignY=45&animation=twinkling&fontSize=40&desc=Front-end%20developer&descSize=15&descAlign=41&descAlignY=73" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=110&section=header&text=Hi,%20I'm%20minji%20😎&fontAlignY=45&animation=twinkling&fontSize=40&desc=Front-end%20developer&descSize=15&descAlign=45&descAlignY=73" />
 
 
 <div align="left">
