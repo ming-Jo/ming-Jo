@@ -8,7 +8,7 @@
 #### 👋 Hi, I’m minji 
 #### 👀 I’m interested in web-development & design
 #### 🌱 Learning Front-End Development
-#### 💗 Love to Travel, Coffee, My dog 
+#### 💗 
 #### 💌 Contact me : jomingdii@gmail.com
 
 <br>
